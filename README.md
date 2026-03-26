@@ -108,11 +108,8 @@ CSV Module 📊
 =============================================
 
 📁 Enter the path to your CSV file: data.csv
-
 ⏳ Generating report cards...
-
 ✅ Generated: ReportCard_John_Doe_101.pdf
-
 🎉 SUCCESS! Generated 1 report card(s)
 
 ---------------------------------------------
