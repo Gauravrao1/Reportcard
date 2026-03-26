@@ -30,7 +30,7 @@ Generate beautiful PDF report cards from CSV file input using Python.
 name,roll_no,class,section,academic_year,Math,Math_Max,Science,Science_Max
 
 Example:
-John Doe,101,10,A,2025-2026,85,100,78,100
+Gaurav Rao,101,10,A,2025-2026,85,100,78,100
 
 Rules:
 - Each subject must have Subject + Subject_Max
