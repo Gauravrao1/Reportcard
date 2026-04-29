@@ -15,7 +15,6 @@ from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_RIGHT
 from reportlab.graphics.shapes import Drawing, Rect, String
 from reportlab.graphics.charts.barcharts import VerticalBarChart
 
-
 def calculate_grade(percentage):
     """Calculate grade based on percentage"""
     if percentage >= 90:
